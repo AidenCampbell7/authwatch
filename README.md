@@ -1,5 +1,7 @@
 # authwatch
 
+![tests](https://github.com/AidenCampbell7/authwatch/actions/workflows/tests.yml/badge.svg)
+
 Parses SSH authentication logs, detects suspicious login activity, stores findings
 in SQLite, and serves them over a REST API and a small dashboard.
 
